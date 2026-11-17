@@ -29,7 +29,7 @@
 ### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,django,pandas,numpy,git,github,vscode&perline=11" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,pandas,numpy,matplotlib,github,vscode&perline=9" alt="skills" />
 </p>
 
 | Category            | Technologies                  |
@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=UNKNOWNTALK9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=UNKNOWNTALK9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNKNOWNTALK9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
